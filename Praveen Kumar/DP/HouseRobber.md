@@ -1,11 +1,11 @@
 
-## House Robber Problem
+# House Robber Problem
 
 
 1. **Top-Down Approach (Recursion with Memoization - Dynamic Programming)**
 2. **Bottom-Up Approach (Tabulation - Dynamic Programming)**
 
-### Code Explanation
+## Code Explanation
 
 #### 1. Top-Down Approach (Memoization)
 
